@@ -1,2 +1,2 @@
-###mosaicmusic.io
+### mosaicmusic.io
 Check it [out](mosaicmusic.io).
